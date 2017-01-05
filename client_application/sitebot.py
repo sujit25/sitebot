@@ -4,7 +4,7 @@ import requests
 import random
 from termcolor import colored
 
-CLIENT_ACCESS_TOKEN = '9f89b0e460e143048e5f51c46802f869'
+CLIENT_ACCESS_TOKEN = 
 ai = apiai.ApiAI(CLIENT_ACCESS_TOKEN)
 
 SESSION_ID = str(random.randint(2,999))
