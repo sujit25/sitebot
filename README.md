@@ -1,4 +1,4 @@
-# webbot
+# Sitebot
 
 A bot that answers about your website
 
